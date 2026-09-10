@@ -1,2 +1,2 @@
 # NJU-ICS2026-PA
-How I struggle to complete PA0-PA4
+Implementation and notes for NJU Computer Systems Programming Assignments.
